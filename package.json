@@ -11,12 +11,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "github.com/finitud/js-pi-pinout",
   "author": "Ruben Martin",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "dependencies" : {
-    "express" : "~3.2.1",
-    "pi-gpio" : "~0.0.2"
-  }
 }
