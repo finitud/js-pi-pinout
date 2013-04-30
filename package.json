@@ -1,0 +1,22 @@
+{
+  "name": "pinout",
+  "version": "0.0.1",
+  "description": "Learning how to use the GPIO pins in the RPi from node.js",
+  "main": "http-led-2.js",
+  "dependencies": {
+    "express": "~3.2.1",
+    "pi-gpio": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ruben Martin",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies" : {
+    "express" : "~3.2.1",
+    "pi-gpio" : "~0.0.2"
+  }
+}
